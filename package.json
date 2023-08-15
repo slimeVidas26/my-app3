@@ -1,0 +1,19 @@
+{
+  "name": "my-app3",
+  "version": "1.0.0",
+  "description": "\"# my-app3\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "isaac",
+  "license": "ISC",
+  "dependencies": {
+    "@apollo/server": "^4.9.1",
+    "graphql-tag": "^2.12.6"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.22.10",
+    "@babel/node": "^7.22.10"
+  }
+}
